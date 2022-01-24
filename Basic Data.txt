@@ -1,0 +1,9 @@
+Books used
+MAIN - Introduction to Algorithms - 3rd edition - Cormen, Leiserson
+ANOTHER - 
+
+Evaluation
+Weekly Quizzes - 15
+Quiz 1 - 15
+Quiz 2 - 20
+EndSem - 50
