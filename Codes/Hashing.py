@@ -95,4 +95,3 @@ print("Closest Prime to n greater than n:", closest_prime)
 closest_pw2 = ClosestPowerOf2(closest_prime)
 print("Closest Power of 2 to closest prime:", closest_pw2)
 print("Diff:", abs(closest_prime-closest_pw2))
-

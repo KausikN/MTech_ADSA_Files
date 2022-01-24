@@ -42,5 +42,3 @@ n = 50
 # RunCode
 p = CalcBirthdayMatchProb(n)
 print(p)
-
-print((1/8)*(1/7)*(1/6))
